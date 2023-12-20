@@ -18,7 +18,7 @@ This repository provides a detailed step-by-step guide for installing Ubuntu 22.
 - Start the Virtual Machine.
 - Follow the on-screen instructions to install Ubuntu.
 
-- mkdir imagesVM
+- mkdir images
 
 - ...
 
