@@ -1,4 +1,3 @@
-# Ubuntu-Installation-Guide.git-cd-Ubuntu-Installation-Guide
 # Ubuntu Installation Guide
 
 This repository provides a detailed step-by-step guide for installing Ubuntu 22.04.3 LTS.
