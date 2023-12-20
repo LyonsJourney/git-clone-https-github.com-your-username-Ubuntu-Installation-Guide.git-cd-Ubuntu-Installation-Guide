@@ -88,47 +88,45 @@ sudo apt upgrade
 Step 2: Install Additional Software
 Essential Tools
 bash
-Copy code
+
 sudo apt install build-essential curl git unzip
 Additional Utilities
 bash
-Copy code
+
 sudo apt install htop tree
 Step 3: Install Snap Packages
 bash
-Copy code
+
 sudo apt install snapd
 Example: Install VS Code via Snap
 bash
-Copy code
+
 sudo snap install code --classic
 Step 4: Configure Git
 bash
-Copy code
+
 git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
 Step 5: Install a Web Browser
 Choose and install a web browser of your choice:
 
 Firefox:
-
 bash
 Copy code
 sudo apt install firefox
 Chromium:
-
 bash
-Copy code
+
 sudo apt install chromium-browser
 Step 6: Set Up Zsh (Optional)
 bash
-Copy code
+
 sudo apt install zsh
 chsh -s $(which zsh)
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 Step 7: Clean Up
 bash
-Copy code
+
 sudo apt autoremove
 Additional Tips
 Explore Software Center for more applications.
@@ -137,7 +135,6 @@ Contributing
 If you find any issues or want to contribute to this guide, feel free to open an issue or create a pull request.
 
 vbnet
-Copy code
 
 This guide includes updating the system, installing essential tools, configuring Git, installing a web browser, setting up Zsh (optional), and performing clean-up tasks. Adjust the software and steps based on your preferences and the needs of your target audience.
 
