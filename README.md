@@ -18,4 +18,37 @@ This repository provides a detailed step-by-step guide for installing Ubuntu 22.
 - Start the Virtual Machine.
 - Follow the on-screen instructions to install Ubuntu.
 
+- mkdir imagesVM
+
+- ...
+
+## Step 3: Ubuntu Installation
+
+- Start the Virtual Machine.
+- Follow the on-screen instructions to install Ubuntu.
+
+![Step 3 Image](images/step3.png)
+
+### Step 3.1: Language Selection
+
+- Choose your preferred language.
+
+![Step 3.1 Image](images/step3.1.png)
+
+### Step 3.2: Installation Type
+
+- Select "Install Ubuntu."
+
+![Step 3.2 Image](images/step3.2.png)
+
 ...
+
+## Contributing
+
+If you find any issues or want to contribute to this guide, feel free to open an issue or create a pull request.
+
+...
+
+git add .
+git commit -m "Add Ubuntu Installation Guide"
+git push origin master
